@@ -41,13 +41,13 @@ docker rm $(docker ps -a -q)
 
    HTTPS:
    ```shell
-   git clone https://github.com/JoulesLabs/bit-integrations-docker.git 
+   git clone https://github.com/rifatcse09/bit-integrations-docker.git 
    cd bit-integrations-docker
    ```
 
    SSH:
    ```shell
-   git clone git@github.com:JoulesLabs/bit-integrations-docker.git
+   git clone git@github.com:rifatcse09/bit-integrations-docker.git
    cd bit-integrations-docker
    ```
 
